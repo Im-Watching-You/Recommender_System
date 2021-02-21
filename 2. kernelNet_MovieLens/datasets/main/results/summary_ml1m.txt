@@ -1,0 +1,185 @@
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-f389c415-c40a-47bc-a306-ba5f32e8daf1.json	Val: 0.822189	Tr: 0.683335	Tm: 1593073651 
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-f389c415-c40a-47bc-a306-ba5f32e8daf1.json	Val: 0.824991	Tr: 0.684093	Tm: 1593064477
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-f389c415-c40a-47bc-a306-ba5f32e8daf1.json	Val: 0.828466	Tr: 0.682916	Tm: 1593090808
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-f389c415-c40a-47bc-a306-ba5f32e8daf1.json 	Val: 0.825984	Tr: 0.684206	Tm: 1593094291
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-f389c415-c40a-47bc-a306-ba5f32e8daf1.json 	Val: 0.851226	Tr: 0.800260	Tm: 1593137430	old
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-f389c415-c40a-47bc-a306-ba5f32e8daf1.json 	Val: 0.853223	Tr: 0.806157	Tm: 1593160569	old
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-f389c415-c40a-47bc-a306-ba5f32e8daf1.json 	Val: 0.884515	Tr: 0.805872	Tm: 1593160854	old
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-f389c415-c40a-47bc-a306-ba5f32e8daf1.json 	Val: 0.853146	Tr: 0.807953	Tm: 1593161035	old
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-6c10615c-398d-4b49-9246-b5e143a0345a.json 	Val: 0.913492	Tr: 0.881876	Tm: 1593193353	new
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-6c10615c-398d-4b49-9246-b5e143a0345a.json 	Val: 0.898440	Tr: 0.852413	Tm: 1593193498	new
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-6c10615c-398d-4b49-9246-b5e143a0345a.json 	Val: 0.920901	Tr: 0.882634	Tm: 1593193889	new
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.828298	Tr: 0.683569	Tm: 1593434053
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.822189	Tr: 0.681239	Tm: 1593487000
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.826546	Tr: 0.683030	Tm: 1593494477
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.827174	Tr: 0.667231	Tm: 1593497197
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.827026	Tr: 0.681654	Tm: 1593503706
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.825616	Tr: 0.682341	Tm: 1593506195
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.826001	Tr: 0.682790	Tm: 1593508622
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.824447	Tr: 0.682177	Tm: 1593511327
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.827128	Tr: 0.684135	Tm: 1593518426
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.824148	Tr: 0.683653	Tm: 1593520913
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.822971	Tr: 0.682370	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.791665	Tr: 0.667622	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.792046	Tr: 0.666004	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.792268	Tr: 0.668375	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.780958	Tr: 0.662077	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.787326	Tr: 0.664925	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.788069	Tr: 0.663025	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.808273	Tr: 0.677188	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.787395	Tr: 0.665931	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.787462	Tr: 0.663622	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-791a57e1-957e-4593-bc6b-d3f7c67cc7be.json 	Val: 0.823325	Tr: 0.683100	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.788396	Tr: 0.666170	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.803405	Tr: 0.671494	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.797961	Tr: 0.672439	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.804867	Tr: 0.674183	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.778698	Tr: 0.660740	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.778553	Tr: 0.660347	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.819419	Tr: 0.681748	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.815510	Tr: 0.680048	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-04de86f5-87a7-4f0e-92bd-2dfb26a7bd8d.json 	Val: 0.812836	Tr: 0.680800	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-928fe80b-ffa6-42a1-b138-9694f4c41ce5.json 	Val: 0.810796	Tr: 0.679400	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-928fe80b-ffa6-42a1-b138-9694f4c41ce5.json 	Val: 0.810243	Tr: 0.679354	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-928fe80b-ffa6-42a1-b138-9694f4c41ce5.json 	Val: 0.810418	Tr: 0.680306	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-c6db39e8-10de-40ff-9417-610c07120f76.json 	Val: 0.904010	Tr: 0.848750	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-c6db39e8-10de-40ff-9417-610c07120f76.json 	Val: 0.405566	Tr: 0.374566	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-eaecad71-b7b4-4a82-84dc-1e35dc1c1df0.json 	Val: 0.751160	Tr: 0.659819	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-eaecad71-b7b4-4a82-84dc-1e35dc1c1df0.json 	Val: 0.888177	Tr: 0.836794	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-eaecad71-b7b4-4a82-84dc-1e35dc1c1df0.json 	Val: 0.863249	Tr: 0.757893	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-eaecad71-b7b4-4a82-84dc-1e35dc1c1df0.json 	Val: 0.903974	Tr: 0.849019	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821769	Tr: 0.684038	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.900806	Tr: 0.845812	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.904360	Tr: 0.848596	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821791	Tr: 0.682060	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821223	Tr: 0.681642	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821130	Tr: 0.683933	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821880	Tr: 0.683181	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.824765	Tr: 0.680685	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821301	Tr: 0.681281	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.824657	Tr: 0.682205	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.822437	Tr: 0.682315	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821573	Tr: 0.683379	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821476	Tr: 0.683024	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.820915	Tr: 0.681409	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-206a3789-74c3-40f8-8f3d-3d391ebdf76b.json 	Val: 0.821036	Tr: 0.683521	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2ac5a2b3-b6ad-4f46-97e5-eb0b335423ef.json 	Val: 0.821360	Tr: 0.683390	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-940b0707-12aa-4070-8fa0-f86b9022b95a.json 	Val: 0.904134	Tr: 0.847474	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-940b0707-12aa-4070-8fa0-f86b9022b95a.json 	Val: 0.823416	Tr: 0.683221	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-940b0707-12aa-4070-8fa0-f86b9022b95a.json 	Val: 0.823727	Tr: 0.683729	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-940b0707-12aa-4070-8fa0-f86b9022b95a.json 	Val: 0.822674	Tr: 0.681833	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.823234	Tr: 0.683232	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.823068	Tr: 0.683703	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.823159	Tr: 0.683541	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.823676	Tr: 0.683334	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.822302	Tr: 0.683825	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.822930	Tr: 0.682330	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.822827	Tr: 0.684130	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.822875	Tr: 0.683374	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2eca997f-84e2-4045-9bd6-8e0bcb1d040f.json 	Val: 0.823840	Tr: 0.684358	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-671c47e9-d155-44aa-98af-15d73deb9d33.json 	Val: 0.828851	Tr: 0.682303	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-671c47e9-d155-44aa-98af-15d73deb9d33.json 	Val: 0.821078	Tr: 0.683209	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-671c47e9-d155-44aa-98af-15d73deb9d33.json 	Val: 0.821690	Tr: 0.680931	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-671c47e9-d155-44aa-98af-15d73deb9d33.json 	Val: 0.799343	Tr: 0.671346	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-671c47e9-d155-44aa-98af-15d73deb9d33.json 	Val: 0.789561	Tr: 0.666314	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-671c47e9-d155-44aa-98af-15d73deb9d33.json 	Val: 0.804322	Tr: 0.671094	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-671c47e9-d155-44aa-98af-15d73deb9d33.json 	Val: 0.805338	Tr: 0.672071	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-334c83a7-8637-47c0-b1d9-941e0371ef84.json 	Val: 0.741016	Tr: 0.637313	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-84a940ae-1097-47ef-8462-6013c50f5066.json 	Val: 0.807681	Tr: 0.673257	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-84a940ae-1097-47ef-8462-6013c50f5066.json 	Val: 0.822527	Tr: 0.684058	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-84a940ae-1097-47ef-8462-6013c50f5066.json 	Val: 0.818303	Tr: 0.680837	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-84a940ae-1097-47ef-8462-6013c50f5066.json 	Val: 0.823252	Tr: 0.684579	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823749	MAE: 0.642819	Tr: 0.683972	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823764	MAE: 0.642780	Tr: 0.681791	Tm: 1596537964
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823128	MAE: 0.642319	Tr: 0.683067	Tm: 1596541841
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823508	MAE: 0.642445	Tr: 0.683024	Tm: 1596544497
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823375	MAE: 0.642350	Tr: 0.683389	Tm: 1596547029
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823534	MAE: 0.642792	Tr: 0.684632	Tm: 1596549784
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823416	MAE: 0.642261	Tr: 0.683041	Tm: 1596553017
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823683	MAE: 0.642516	Tr: 0.682544	Tm: 1596556386
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823303	MAE: 0.642311	Tr: 0.681544	Tm: 1596559455
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-b4d85aa0-8037-44cb-8cbc-5ca5ae5962c3.json 	RMSE: 0.823722	MAE: 0.642564	Tr: 0.682656	Tm: 1596562449
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-a2ffbd6b-290b-4c10-88ef-04e16c122189.json 	RMSE: 0.823305	MAE: 0.642599	Tr: 0.683329	Tm: 1596598184
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-a2ffbd6b-290b-4c10-88ef-04e16c122189.json 	RMSE: 0.824020	MAE: 0.642794	Tr: 0.683482	Tm: 1596600665
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-a2ffbd6b-290b-4c10-88ef-04e16c122189.json 	RMSE: 0.824287	MAE: 0.643047	Tr: 0.682719	Tm: 1596603651
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-a2ffbd6b-290b-4c10-88ef-04e16c122189.json 	RMSE: 0.824017	MAE: 0.642994	Tr: 0.679472	Tm: 1596606285
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-a2ffbd6b-290b-4c10-88ef-04e16c122189.json 	RMSE: 0.823809	MAE: 0.642686	Tr: 0.682789	Tm: 1596609701
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-a2ffbd6b-290b-4c10-88ef-04e16c122189.json 	RMSE: 0.824208	MAE: 0.643130	Tr: 0.683663	Tm: 1596613913
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-a2ffbd6b-290b-4c10-88ef-04e16c122189.json 	RMSE: 0.824447	MAE: 0.643188	Tr: 0.683793	Tm: 1596617112
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-a2ffbd6b-290b-4c10-88ef-04e16c122189.json 	RMSE: 0.823921	MAE: 0.643061	Tr: 0.682834	Tm: 1596620632
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2ac20736-7a38-45ba-9885-0e6b42ddbd35.json 	RMSE: 0.824120	MAE: 0.643086	Tr: 0.683478	Tm: 1596623507
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824149	MAE: 0.643211	Tr: 0.683186	Tm: 1596626090
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-2ac20736-7a38-45ba-9885-0e6b42ddbd35.json 	RMSE: 0.824140	MAE: 0.642885	Tr: 0.683803	Tm: 1596630191
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823612	MAE: 0.642817	Tr: 0.683380	Tm: 1596632565
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824248	MAE: 0.642587	Tr: 0.682820	Tm: 1596635814
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824099	MAE: 0.642530	Tr: 0.682152	Tm: 1596638176
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824660	MAE: 0.642945	Tr: 0.682982	Tm: 1596680158
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824377	MAE: 0.642874	Tr: 0.680788	Tm: 1596683187
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.938103	MAE: 0.749489	Tr: 0.675717	Tm: 1596686075
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823758	MAE: 0.642356	Tr: 0.679677	Tm: 1596688791
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823746	MAE: 0.642615	Tr: 0.683176	Tm: 1596691500
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823613	MAE: 0.642548	Tr: 0.682823	Tm: 1596694129
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823282	MAE: 0.642455	Tr: 0.684212	Tm: 1596696459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824610	MAE: 0.641918	Tr: 0.682414	Tm: 1596699120
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.825148	MAE: 0.643591	Tr: 0.682667	Tm: 1596703857
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.822662	MAE: 0.642034	Tr: 0.680550	Tm: 1596706622
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.827633	MAE: 0.644679	Tr: 0.682915	Tm: 1596709592
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.825466	MAE: 0.643193	Tr: 0.682395	Tm: 1596713912
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824092	MAE: 0.642349	Tr: 0.681939	Tm: 1596719850
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.827576	MAE: 0.644866	Tr: 0.681098	Tm: 1596725261
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824556	MAE: 0.641790	Tr: 0.684643	Tm: 1596728369
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.826013	MAE: 0.642895	Tr: 0.683136	Tm: 1596733038
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823319	MAE: 0.642310	Tr: 0.683010	Tm: 1596736168
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824437	MAE: 0.642981	Tr: 0.682709	Tm: 1596772722
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824361	MAE: 0.642618	Tr: 0.683726	Tm: 1596775243
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824183	MAE: 0.642706	Tr: 0.681456	Tm: 1596778111
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824359	MAE: 0.642923	Tr: 0.682781	Tm: 1596781311
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824295	MAE: 0.642634	Tr: 0.681422	Tm: 1596783738
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824114	MAE: 0.642539	Tr: 0.681511	Tm: 1596786344
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824018	MAE: 0.642460	Tr: 0.681393	Tm: 1596789597
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.824248	MAE: 0.642999	Tr: 0.682444	Tm: 1596792158
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823457	MAE: 0.642297	Tr: 0.682225	Tm: 1596797589
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823523	MAE: 0.642220	Tr: 0.683805	Tm: 1596800021
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.825432	MAE: 0.643540	Tr: 0.672343	Tm: 1596803325
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.825353	MAE: 0.643504	Tr: 0.671992	Tm: 1596808583
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.826212	MAE: 0.644217	Tr: 0.671685	Tm: 1596813883
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-aa417293-b3a6-4443-a2d3-fcf483928bc9.json 	RMSE: 0.823726	MAE: 0.642612	Tr: 0.678876	Tm: 1596816610
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823689	MAE: 0.642424	Tr: 0.677915	Tm: 1597382479
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823184	MAE: 0.642248	Tr: 0.682607	Tm: 1597385463
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823307	MAE: 0.642207	Tr: 0.682856	Tm: 1597389582
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823439	MAE: 0.642394	Tr: 0.681866	Tm: 1597391966
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823426	MAE: 0.642197	Tr: 0.682487	Tm: 1597395644
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823498	MAE: 0.642467	Tr: 0.682491	Tm: 1597398941
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823423	MAE: 0.642252	Tr: 0.681366	Tm: 1597402591
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823595	MAE: 0.642764	Tr: 0.682957	Tm: 1597408986
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823320	MAE: 0.642362	Tr: 0.682753	Tm: 1597413599
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823127	MAE: 0.642174	Tr: 0.682991	Tm: 1597417188
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823607	MAE: 0.642720	Tr: 0.684397	Tm: 1597464827
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823051	MAE: 0.642218	Tr: 0.684163	Tm: 1597470373
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823526	MAE: 0.642275	Tr: 0.682660	Tm: 1597474176
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823886	MAE: 0.642799	Tr: 0.682544	Tm: 1597478750
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823686	MAE: 0.642609	Tr: 0.681761	Tm: 1597481840
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.822912	MAE: 0.641866	Tr: 0.682307	Tm: 1597491711
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823236	MAE: 0.642316	Tr: 0.684105	Tm: 1597501750
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823510	MAE: 0.642355	Tr: 0.683700	Tm: 1597560192
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823065	MAE: 0.642253	Tr: 0.684643	Tm: 1597562877
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823224	MAE: 0.642202	Tr: 0.681212	Tm: 1597565396
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-0af883ee-6d52-43aa-906d-188a94a4fa7a.json 	RMSE: 0.823523	MAE: 0.642413	Tr: 0.682516	Tm: 1597572128
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823098	MAE: 0.640689	Tr: 0.681847	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823114	MAE: 0.642145	Tr: 0.680440	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823131	MAE: 0.642038	Tr: 0.681999	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823997	MAE: 0.642999	Tr: 0.682272	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823827	MAE: 0.642729	Tr: 0.681868	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823531	MAE: 0.642316	Tr: 0.681292	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823146	MAE: 0.642297	Tr: 0.681714	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823178	MAE: 0.642512	Tr: 0.683171	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823702	MAE: 0.642767	Tr: 0.683290	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823754	MAE: 0.642706	Tr: 0.682636	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823340	MAE: 0.642559	Tr: 0.684543	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823691	MAE: 0.642694	Tr: 0.683659	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823707	MAE: 0.643009	Tr: 0.683200	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823949	MAE: 0.643019	Tr: 0.683855	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823537	MAE: 0.642705	Tr: 0.684867	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823182	MAE: 0.642330	Tr: 0.682233	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823900	MAE: 0.642962	Tr: 0.684835	Tm: 1593523459
+-f C:\Users\Maksym\AppData\Roaming\jupyter\runtime\kernel-17f60cd1-9fd6-4b3d-8a88-8ceb88ed0975.json 	RMSE: 0.823453	MAE: 0.642748	Tr: 0.684179	Tm: 1593523459
